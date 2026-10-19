@@ -32,6 +32,7 @@ Freelancers in film and TV have irregular income, a mix of PAYE and self-employe
 
 A layered REST API (controllers, services, repositories) across twelve service classes, with request validation, centralised exception handling and per-user authorisation checks. UUID primary keys reduce the risk of insecure direct object references.
 
+![Site map](screenshots/sitemap-final.png)
 
 ## Testing
 
